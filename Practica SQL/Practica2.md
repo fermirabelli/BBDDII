@@ -18,8 +18,6 @@
     
 9.	Muestre el apellido, el salario y la comisión para todos los empleados que ganan comisiones. Ordene los datos en orden descendente de salarios y comisiones.
 
-Si tiene tiempo, complete los siguientes ejercicios:
-
 10.	Muestre el apellido de todos los empleados que tengan la a como tercera letra.
 
 11.	Muestre el apellido de todos los empleados que tengan una a y una e en el apellido.
