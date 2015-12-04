@@ -5,6 +5,7 @@
 2.	Cree una consulta para mostrar los números de empleado y los apellidos de todos los empleados que ganen más del salario medio. Ordene los resultados por salario en orden ascendente.
 
 3. 	Escriba una consulta que muestre los números de empleado y los apellidos de todos los empleados que trabajen en un departamento con cualquier empleado cuyo apellido contenga una u. Coloque la sentencia SQL en un archivo de texto llamado BBDDII_Lab6_3.sql. Ejecute la consulta.
+
 4.	Muestre el apellido, el número de departamento y el identificador de cargo de todos los empleados cuyos identificadores de ubicación de departamento sean 1700.
   
 5.	Muestre el apellido y el salario de todos los empleados que informen a King.
