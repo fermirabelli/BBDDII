@@ -1,4 +1,4 @@
-# Práctica SQL - Númer0 3
+# Práctica SQL - Número 3
 
 1.	Escriba una consulta para mostrar la fecha actual. Etiquete la columna como Date.
 
