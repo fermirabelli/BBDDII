@@ -16,15 +16,13 @@
 
 8.	Cree una consulta para mostrar el apellido y el salario de todos los empleados. Formatee el salario para que tenga 15 caracteres, rellenando a la izquierda con $. Etiquete la columna como SALARY.
 
-9.	Muestre el apellido de cada empleado, así como la fecha de contratación y la fecha de revisión de salario, que es el primer lunes después de cada seis meses de servicio. Etiquete la columna REVIEW. Formatee las fechas para que aparezca en un formato similar a “Monday, the Thirty-First of July, 2000”.
+9.	Muestre el apellido, la fecha de contratación y el día de la semana en el que comenzó el empleado. Etiquete la columna DAY. Ordene los resultados por día de la semana, comenzando 	por el lunes.
 
-10.	Muestre el apellido, la fecha de contratación y el día de la semana en el que comenzó el empleado. Etiquete la columna DAY. Ordene los resultados por día de la semana, comenzando 	por el lunes.
+10.Cree una consulta que muestre el apellido y las comisiones de los empleados. Si un empleado 	no gana comisión, ponga “No Commission”. Etiquete la columna COMM.
 
-11.Cree una consulta que muestre el apellido y las comisiones de los empleados. Si un empleado 	no gana comisión, ponga “No Commission”. Etiquete la columna COMM.
+11.	Cree una consulta que muestre el apellido de los empleados y que indique las cantidades de sus salarios anuales con asteriscos. Cada asterisco significa mil dólares. Ordene los datos por salario en orden descendente. Etiquete la columna EMPLOYEES_AND_THEIR_SALARIES.
 
-12.	Cree una consulta que muestre el apellido de los empleados y que indique las cantidades de sus salarios anuales con asteriscos. Cada asterisco significa mil dólares. Ordene los datos por salario en orden descendente. Etiquete la columna EMPLOYEES_AND_THEIR_SALARIES.
-
-13. Utilizando la función DECODE, escriba una consulta que muestre el grado de todos los empleados basándose en el valor de la columna JOB_ID, según los datos siguientes:
+12. Utilizando la función DECODE, escriba una consulta que muestre el grado de todos los empleados basándose en el valor de la columna JOB_ID, según los datos siguientes:
 	Cargo						Grado 	
 	AD_PRES						A	
 	ST_MAN						B	
@@ -33,4 +31,4 @@
 	ST_CLERK					E	
 	Ninguno de los anteriores	0	
 
-14. Vuelva a escribir la sentencia de la pregunta anterior utilizando la sintaxis CASE.
+13. Vuelva a escribir la sentencia de la pregunta anterior utilizando la sintaxis CASE.
