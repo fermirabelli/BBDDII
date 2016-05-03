@@ -10,7 +10,7 @@
 
 5.	Muestre el apellido y el número de departamento de todos los empleados de los departamentos 20 y 70 en orden alfabético por apellido.
 
-6.	Modifique BBDDII_Lab2_3.sql para enumerar el apellido y el salario de los empleados que ganan entre $3.500 y $12.000, y están en el departamento 20 ó 50. Etiquete las columnas "Empleado" y "Salario Mensual", respectivamente. Vuelva a guardar BBDDII_Lab2_3.sql como BBDDII_Lab2_6.sql. Ejecute la sentencia en BBDDII_Lab2_6.sql.
+6.	Modifique BBDDII_Lab2_3.sql para mostrar el apellido y el salario de los empleados que ganan entre $3.500 y $12.000, y están en el departamento 20 ó 50. Etiquete las columnas "Empleado" y "Salario Mensual", respectivamente. Vuelva a guardar BBDDII_Lab2_3.sql como BBDDII_Lab2_6.sql. Ejecute la sentencia en BBDDII_Lab2_6.sql.
 
 7.	Muestre el apellido y la fecha de contratación de todos los empleados contratados en 1994.
 
