@@ -4,7 +4,7 @@ Determine la validez de las tres siguientes afirmaciones. Marque con un círculo
 
 1.	Las funciones de grupo pasan por muchas filas para producir un resultado por grupo.	Verdadero/Falso
 
-2.	Las funciones de grupo incluyen nulos en los cálculos.	Verdadero/Falso
+2.	Las funciones de grupo siempre incluyen nulos en los cálculos.	Verdadero/Falso
 
 3.	La cláusula WHERE restringe las filas antes de su inclusión en un cálculo de grupo.	Verdadero/Falso
 
