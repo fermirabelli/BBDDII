@@ -12,7 +12,7 @@
 
 6.	Visualice el apellido y el número del empleado junto con el apellido y el número de su director. Etiquete las columnas como Empleado, Emp#, Supervisor y Sup#, respectivamente.Coloque la sentencia SQL en un archivo de texto llamado BBDDII_Lab4_6.sql.
 
-7.	Modifique BBDDII_Lab4_6.sql para visualizar a todos los empleados incluyendo a King, que no tiene director. Ordene los resultados por número de empleado.Coloque la sentencia SQL en un archivo de texto llamado BBDDII_Lab4_7.sql. Ejecute la consulta en BBDDII_Lab4_7.sql.       
+7.	Modifique BBDDII_Lab4_6.sql para visualizar a todos los empleados incluyendo a Marshall, que no tiene director. Ordene los resultados por número de empleado.Coloque la sentencia SQL en un archivo de texto llamado BBDDII_Lab4_7.sql. Ejecute la consulta en BBDDII_Lab4_7.sql.       
 
 8.	Cree una consulta que muestre apellidos de empleado, números de departamento y todos los empleados que trabajan en el mismo departamento que un empleado dado. Asigne a cada columna la etiqueta adecuada.
 
