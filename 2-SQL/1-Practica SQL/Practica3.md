@@ -22,7 +22,7 @@
 
 11.	Cree una consulta que muestre el apellido de los empleados y que indique las cantidades de sus salarios anuales con asteriscos. Cada asterisco significa mil dólares. Ordene los datos por salario en orden descendente. Etiquete la columna EMPLOYEES_AND_THEIR_SALARIES.
 
-12. Utilizando la función DECODE, escriba una consulta que muestre el grado de todos los empleados basándose en el valor de la columna JOB_ID, según los datos siguientes:
+12. Escriba una consulta que muestre el grado de todos los empleados basándose en el valor de la columna JOB_ID, según los datos siguientes:
 	Cargo						Grado 	
 	AD_PRES						A	
 	ST_MAN						B	
@@ -31,4 +31,3 @@
 	ST_CLERK					E	
 	Ninguno de los anteriores	0	
 
-13. Vuelva a escribir la sentencia de la pregunta anterior utilizando la sintaxis CASE.
