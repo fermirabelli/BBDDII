@@ -8,9 +8,9 @@ Dado que existen los siguientes niveles de aislamiento en SQL Server:
     *Serializable
     *Snapshot
 
-##Probar para cada uno de los siguientes casos
+### Probar para cada uno de los siguientes casos
 
-1. serializable
+1) serializable
 
 ```
     update Tabla set Campo=1	
@@ -21,7 +21,7 @@ Dado que existen los siguientes niveles de aislamiento en SQL Server:
 		commit
 ```
 
-2. read commited
+2) read commited
 
 ```
     update Tabla set Campo=1
@@ -31,7 +31,7 @@ Dado que existen los siguientes niveles de aislamiento en SQL Server:
 			waitfor delay '00:00:30'                
 		commit
 ```
-3. repeatable read
+3) repeatable read
 
 ``` 
     update Tabla set Campo=1
@@ -42,7 +42,7 @@ Dado que existen los siguientes niveles de aislamiento en SQL Server:
 		commit
 ```
 
-4. read committed
+4) read committed
 
 ```
     update Tabla set Campo=1
@@ -53,7 +53,7 @@ Dado que existen los siguientes niveles de aislamiento en SQL Server:
 		commit
 ```
 
-5. read uncommitted
+5) read uncommitted
 
 ```
     update Tabla set Campo=1
@@ -64,7 +64,7 @@ Dado que existen los siguientes niveles de aislamiento en SQL Server:
         commit
 ```
 
-6. snapshot
+6) snapshot
 
 ```
     update Tabla set Campo=1
@@ -75,7 +75,7 @@ Dado que existen los siguientes niveles de aislamiento en SQL Server:
 		commit
 ```
 
-## Siempre en paralelo ejecutar la siguientes sentencias y verificar que sucede en cada caso 
+### Siempre en paralelo ejecutar la siguientes sentencias y verificar que sucede en cada caso 
 
 ```
     select * from Tabla
