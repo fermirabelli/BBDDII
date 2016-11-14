@@ -1,0 +1,53 @@
+<list>
+  <ar.informe.administrativo.InformeAdministrativoCompleto>
+    <mensaje>
+      <id>1599832309</id>
+      <cuerpo class="ar.informe.administrativo.InformeAdministrativoPayload">
+        <asunto>borrador</asunto>
+        <contenido> Aguardando instrucciones.</contenido>
+      </cuerpo>
+      <ejecutivos>
+        <ar.usuario.IdNodo>
+          <id>diego</id>
+        </ar.usuario.IdNodo>
+      </ejecutivos>
+      <informativos/>
+      <seguridad>PUBLICO</seguridad>
+      <precedenciaEjecutivos>ROUTINE</precedenciaEjecutivos>
+      <precedenciaInformativos>ROUTINE</precedenciaInformativos>
+      <tipo>
+        <codigo>ADM</codigo>
+        <nombre>Texto Libre</nombre>
+      </tipo>
+    </mensaje>
+    <estado>BORRADOR</estado>
+    <estaLeido>true</estaLeido>
+    <horaModificacion>
+      <epoch>1475761632915</epoch>
+    </horaModificacion>
+  </ar.informe.administrativo.InformeAdministrativoCompleto>
+  <ar.informe.administrativo.InformeAdministrativoCompleto>
+    <mensaje>
+      <id>1506550399</id>
+      <cuerpo class="ar.informe.administrativo.InformeAdministrativoPayload">
+        <asunto>mensaje</asunto>
+        <contenido> Pedido de Informe de Situación</contenido>
+      </cuerpo>
+      <ejecutivos>
+        <ar.usuario.IdNodo>
+          <id>dani</id>
+        </ar.usuario.IdNodo>
+      </ejecutivos>
+      <informativos/>
+      <seguridad>PUBLICO</seguridad>
+      <precedenciaEjecutivos>ROUTINE</precedenciaEjecutivos>
+      <precedenciaInformativos>ROUTINE</precedenciaInformativos>
+      <tipo reference="../../../ar.informe.administrativo.InformeAdministrativoCompleto/mensaje/tipo"/>
+    </mensaje>
+    <estado>NOENVIADO</estado>
+    <estaLeido>false</estaLeido>
+    <horaModificacion>
+      <epoch>1475761705210</epoch>
+    </horaModificacion>
+  </ar.informe.administrativo.InformeAdministrativoCompleto>
+</list>
